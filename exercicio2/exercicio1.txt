@@ -1,0 +1,8 @@
+Objeto: É a intancia de uma classe, ou seja, é a materialização da classe.
+
+Tipo abstrato de dados: Define o recurso e só pelo recurso que se mexe.
+
+Classe: que define características, os atributos e as operações.
+
+Mensagens: É o método.
+
